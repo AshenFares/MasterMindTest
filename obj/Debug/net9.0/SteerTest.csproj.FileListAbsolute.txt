@@ -1,0 +1,14 @@
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\bin\Debug\net9.0\SteerTest.exe
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\bin\Debug\net9.0\SteerTest.deps.json
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\bin\Debug\net9.0\SteerTest.runtimeconfig.json
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\bin\Debug\net9.0\SteerTest.dll
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\bin\Debug\net9.0\SteerTest.pdb
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\obj\Debug\net9.0\SteerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\obj\Debug\net9.0\SteerTest.AssemblyInfoInputs.cache
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\obj\Debug\net9.0\SteerTest.AssemblyInfo.cs
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\obj\Debug\net9.0\SteerTest.csproj.CoreCompileInputs.cache
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\obj\Debug\net9.0\SteerTest.dll
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\obj\Debug\net9.0\refint\SteerTest.dll
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\obj\Debug\net9.0\SteerTest.pdb
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\obj\Debug\net9.0\SteerTest.genruntimeconfig.cache
+C:\Users\kille\OneDrive\Documents\Steer Test\SteerTest\obj\Debug\net9.0\ref\SteerTest.dll
